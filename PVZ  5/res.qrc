@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/close1.png</file>
+        <file>res/close2.png</file>
+        <file>res/enter.jpg</file>
+        <file>res/help1.png</file>
+        <file>res/help2.png</file>
+        <file>res/save1.png</file>
+        <file>res/save2.png</file>
+        <file>res/start1.png</file>
+        <file>res/start2.png</file>
+        <file>res/Grazy Dave.wav</file>
+        <file>res/Laura Shigihara - Grasswalk IN-GAME.wav</file>
+        <file>res/Help.png</file>
+    </qresource>
+</RCC>
